@@ -1,0 +1,12 @@
+Week01 taught us about scripting in CLI, such as :
+- "cd" to change directory
+- "cd .." to go to the parent directory
+- "mkdir" to make a new directory
+- "ls -al" to list all files and folders in current directory
+- "touch" to create new file
+- "rm" to remove a file
+- "vi" to create a file using vi editor
+- "nano" to create a file using nano editor
+- "mv" to move a file/folder
+- "pwd" to verify current directory
+- and doing pull, push, and commit to our repository
