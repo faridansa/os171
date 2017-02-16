@@ -20,3 +20,8 @@ drwxr-xr-x 1 Farida 197609 0 Feb 16 10:12 week09/
 drwxr-xr-x 1 Farida 197609 0 Feb 16 10:12 week10/
 drwxr-xr-x 1 Farida 197609 0 Feb 16 10:13 xtra/
 /c/Users/Farida/Documents/CSUI 📺/4th TERM/OS/LAB/os171/week01
+Today is 
+Today is 
+Today is 
+Today is 
+Today is 16 Feb 2017 at 17:57:17
