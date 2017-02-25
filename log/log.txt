@@ -1,4 +1,5 @@
 w01-170214-13-LR-About: Hak Kekayaan Intelektual, From: Lecturer
+w01-170214-13-LR-About: Hak Kekayaan Intelektual, From: Lecturer
 w01-170214-14-LR-About: Scripting, From: Lecturer
 w01-170214-14-LR-About: Scripting, From: Lecturer
 w01-170216-13-LR-About: Scripting, From: Lecturer
@@ -9,3 +10,15 @@ w01-170216-16-PS-About: Lab session Week01
 w01-170216-16-PS-About: Lab session Week01
 w01-170216-17-PS-About: Lab session Week01
 w01-170216-17-PS-About: Lab session Week01
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-14-LR-About: Protection and Security, From: Lecturer
+w02-170221-14-LR-About: Protection and Security, From: Lecturer
+w02-170223-13-LR-About: Code using C, From: Lecturer
+w02-170223-13-LR-About: Code using C, From: Lecturer
+w02-170223-14-LR-About: Code using C, From: Lecturer
+w02-170223-14-LR-About: Code using C, From: Lecturer
+w02-170223-16-PS-About: Lab session Week02
+w02-170224-07-PS-About: Lab session Week02
+w02-170224-07-PS-About: Lab session Week02
+w02-170224-07-PS-About: Lab session Week02
