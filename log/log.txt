@@ -22,3 +22,11 @@ w02-170223-16-PS-About: Lab session Week02
 w02-170224-07-PS-About: Lab session Week02
 w02-170224-07-PS-About: Lab session Week02
 w02-170224-07-PS-About: Lab session Week02
+w03-170228-13-LR-About: Booting Procedure, From: Lecturer
+w03-170228-13-LR-About: Booting Procedure, From: Lecturer
+w03-170228-14-LR-About: Booting Procedure, From: Lecturer
+w03-170228-14-LR-About: Booting Procedure, From: Lecturer
+w03-170304-06-PS-About: Lab session Week02
+w03-170304-07-PS-About: Lab session Week02
+w03-170304-07-PS-About: Lab session Week02
+w03-170304-08-PS-About: Lab session Week02
