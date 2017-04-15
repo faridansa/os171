@@ -30,3 +30,13 @@ w03-170304-06-PS-About: Lab session Week02
 w03-170304-07-PS-About: Lab session Week02
 w03-170304-07-PS-About: Lab session Week02
 w03-170304-08-PS-About: Lab session Week02
+.
+.
+w06-170411-13-LR-About: Fork, From: Lecturer
+w06-170411-13-LR-About: Fork, From: Lecturer
+w06-170411-14-LR-About: Fork, From: Lecturer
+w06-170411-14-LR-About: Fork, From: Lecturer
+w06-170415-13-LR-About: Lab session Week06
+w06-170415-13-LR-About: Lab session Week06
+w06-170415-14-LR-About: Lab session Week06
+w06-170415-14-LR-About: Lab session Week06
