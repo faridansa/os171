@@ -40,3 +40,16 @@ w06-170415-13-LR-About: Lab session Week06
 w06-170415-13-LR-About: Lab session Week06
 w06-170415-14-LR-About: Lab session Week06
 w06-170415-14-LR-About: Lab session Week06
+w07-180411-13-LR-About: Synchronization, From: Lecturer
+w07-180411-13-LR-About: Synchronization, From: Lecturer
+w07-180411-14-LR-About: Synchronization, From: Lecturer
+w07-180411-14-LR-About: Synchronization, From: Lecturer
+w07-200411-13-LR-About: Semaphore, From: Lecturer
+w07-200411-13-LR-About: Semaphore, From: Lecturer
+w07-200411-14-LR-About: Semaphore, From: Lecturer
+w07-200411-14-LR-About: Semaphore, From: Lecturer
+w07-220415-13-LR-About: Lab session Week07
+w07-220415-13-LR-About: Lab session Week07
+w07-220415-14-LR-About: Lab session Week07
+w07-220415-14-LR-About: Lab session Week07
+
