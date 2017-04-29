@@ -52,4 +52,13 @@ w07-220415-13-LR-About: Lab session Week07
 w07-220415-13-LR-About: Lab session Week07
 w07-220415-14-LR-About: Lab session Week07
 w07-220415-14-LR-About: Lab session Week07
-
+w08-250411-13-LR-About: Scheduling, From: Lecturer
+w08-250411-13-LR-About: Scheduling, From: Lecturer
+w08-250411-14-LR-About: Scheduling, From: Lecturer
+w08-250411-14-LR-About: Scheduling, From: Lecturer
+w08-270411-13-LR-About: Socket, From: Lecturer
+w08-270411-13-LR-About: Socket, From: Lecturer
+w08-270411-14-LR-About: Socket, From: Lecturer
+w08-270411-14-LR-About: Socket, From: Lecturer
+w08-280415-22-LR-About: Lab session Week08
+w08-290415-21-LR-About: Lab session Week08
